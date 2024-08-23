@@ -6,7 +6,7 @@ disparate, disconnected data from all available data sources — including satel
 and other operational assets — to establish a more holistic understanding of ground truth carbon intensity for
 industrial operations. Data is ingested, contextualized, interconnected, and secured immutably using a combination of
 advanced graph analytics, artificial intelligence, and blockchain technologies—making climate disclosures fully
-auditable to prevent misrepresentation..
+auditable to prevent misrepresentation.
 
 Recognizing the critical importance of eliminating anthropogenic methane emissions, this quantification methodology was
 developed using several years of R&D and has been tested in the market. This trusted emissions data supports the
