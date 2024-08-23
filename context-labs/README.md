@@ -1,17 +1,7 @@
 # About Context Labs
 
-Context Labs is an enterprise technology company dedicated to sourcing, organizing, contextualizing, and securing the
-world’s climate information. The company enables trust in data, which can be utilized to inform markets. We synthesize
-disparate, disconnected data from all available data sources — including satellites, aerial flyovers, ground sensors,
-and other operational assets — to establish a more holistic understanding of ground truth carbon intensity for
-industrial operations. Data is ingested, contextualized, interconnected, and secured immutably using a combination of
-advanced graph analytics, artificial intelligence, and blockchain technologies—making climate disclosures fully
-auditable to prevent misrepresentation.
+Recognizing the critical importance of eliminating anthropogenic methane emissions, Context Labs has initially contributed the Next Gen Gas Emissions Quantification Methodology. This near-real time emissions quantification approach is being used by leaders in the oil & gas value chain to support and accelerate their decarbonization efforts. This methodology was developed using years of R&D and has been tested in the market at scale. This trusted emissions data supports the production of trusted environmental attributes with provenance direct to the source.
 
-Recognizing the critical importance of eliminating anthropogenic methane emissions, this quantification methodology was
-developed using several years of R&D and has been tested in the market. This trusted emissions data supports the
-production of trusted environmental attributes with provenance direct to the source. Our near-real time emissions
-quantification is being used by leaders in the natural gas industry to support their decarbonization efforts. Context
-Labs’ intent is to inspire the development of other emissions quantification methodologies that could also be applied
-using their AI-enabled data fabric platform for at-scale decarbonization of industrial operations.
+## About
 
+Context Labs is an enterprise technology company dedicated to sourcing, organizing, contextualizing, and securing the world’s climate information. The company enables trust in data, which can be utilized to inform markets. We synthesize disparate, disconnected data from all available data sources — including satellites, aerial flyovers, ground sensors, and other operational assets — to establish a more holistic understanding of ground truth carbon intensity for industrial operations. Data is ingested, contextualized, interconnected, and secured immutably using a combination of advanced graph analytics, artificial intelligence, and blockchain technologies—making climate disclosures fully auditable and preventing misrepresentation.
